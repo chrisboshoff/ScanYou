@@ -1,0 +1,10 @@
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\ScanYou\ScanYou\bin\Debug\ScanYou.exe.config
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\ScanYou\ScanYou\bin\Debug\ScanYou.exe
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\ScanYou\ScanYou\bin\Debug\ScanYou.pdb
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\ScanYou\ScanYou\obj\Debug\ScanYou.csprojAssemblyReference.cache
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\ScanYou\ScanYou\obj\Debug\ScanYou.Properties.Resources.resources
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\ScanYou\ScanYou\obj\Debug\ScanYou.csproj.GenerateResource.cache
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\ScanYou\ScanYou\obj\Debug\ScanYou.csproj.CoreCompileInputs.cache
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\ScanYou\ScanYou\obj\Debug\ScanYou.exe
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\ScanYou\ScanYou\obj\Debug\ScanYou.pdb
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\ScanYou\ScanYou\obj\Debug\ScanYou.Scan.resources
